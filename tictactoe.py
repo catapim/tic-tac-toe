@@ -1,4 +1,4 @@
-""" tateti por catalina pimentel """
+""" tic tac toe """
 import sys
 import collections
 
